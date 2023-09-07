@@ -1,3 +1,22 @@
 {
-  "transactions": []
+  "transactions": [
+    {
+      "name": "osman goni",
+      "type": "income",
+      "amount": 29,
+      "id": 1
+    },
+    {
+      "name": "ibos",
+      "type": "income",
+      "amount": 66666666,
+      "id": 2
+    },
+    {
+      "name": "osman goni",
+      "type": "income",
+      "amount": 1,
+      "id": 3
+    }
+  ]
 }
