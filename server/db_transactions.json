@@ -14,8 +14,8 @@
     },
     {
       "name": "ibos",
-      "type": "income",
       "amount": 7000,
+      "type": "expense",
       "id": 3
     },
     {
@@ -23,6 +23,12 @@
       "type": "expense",
       "amount": 5000,
       "id": 4
+    },
+    {
+      "name": "shirt",
+      "type": "expense",
+      "amount": 700,
+      "id": 5
     }
   ]
 }
