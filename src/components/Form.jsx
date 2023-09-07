@@ -33,6 +33,7 @@ export default function Form() {
     setType("");
   };
   const cancelEditMode = () => {
+    reset();
     setEditMode(false);
   };
   const handleCreate = (e) => {
@@ -52,6 +53,7 @@ export default function Form() {
         },
       })
     );
+    setEditMode(false);
     reset();
   };
   return (
