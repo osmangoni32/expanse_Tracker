@@ -20,6 +20,7 @@ export default function Form() {
     if (id) {
       setEditMode(true);
       setName(name);
+
       setAmount(amount);
       setType(type);
     } else {
@@ -126,3 +127,4 @@ export default function Form() {
     </div>
   );
 }
+//okk
